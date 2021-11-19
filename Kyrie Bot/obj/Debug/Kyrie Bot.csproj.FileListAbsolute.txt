@@ -1,0 +1,28 @@
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Kyrie Bot.exe.config
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Kyrie Bot.exe
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Kyrie Bot.pdb
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Discord.Net.Core.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Discord.Net.Rest.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\DotNetEnv.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\Sprache.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\System.Buffers.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\System.Interactive.Async.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\System.Linq.Async.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\System.Memory.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\bin\Debug\System.ValueTuple.dll
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\obj\Debug\Kyrie Bot.csproj.CoreCompileInputs.cache
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\obj\Debug\Kyrie Bot.exe
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\obj\Debug\Kyrie Bot.pdb
+C:\Users\kerom\Desktop\Kyrie Bot C#\Kyrie Bot\Kyrie Bot\obj\Debug\Kyrie Bot.csproj.AssemblyReference.cache
